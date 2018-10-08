@@ -35,7 +35,7 @@ exports.positions = [
     salary: 1,
     officer: false,
     type: 'CM',
-    color: '#8e6151'
+    color: '#816434'
   },
   {
     id: 3,
@@ -49,7 +49,7 @@ exports.positions = [
     salary: 2,
     officer: false,
     type: 'CM',
-    color: '#fae6ab'
+    color: '#ddd59d'
   },
   {
     id: 4,
@@ -63,13 +63,13 @@ exports.positions = [
     salary: 3,
     officer: false,
     type: 'CM',
-    color: '#9e9e9e'
+    color: '#bebebe'
   },
   {
     id: 5,
     order: 4,
     name: 'Subtenente',
-    alias: 'SUB',
+    alias: 'SBT',
     prev_position_id: 4,
     next_position_id: 6,
     equivalent_to_id: 5,
@@ -77,7 +77,7 @@ exports.positions = [
     salary: 4,
     officer: false,
     type: 'CM',
-    color: '#3f51b5'
+    color: '#44698b'
   },
   {
     id: 6,
@@ -91,7 +91,7 @@ exports.positions = [
     salary: 5,
     officer: false,
     type: 'CM',
-    color: '#43a2d3'
+    color: '#17b5dd'
   },
   {
     id: 7,
@@ -105,7 +105,7 @@ exports.positions = [
     salary: 6,
     officer: true,
     type: 'CM',
-    color: '#ff9800'
+    color: '#dd4e06'
   },
   {
     id: 8,
@@ -119,7 +119,7 @@ exports.positions = [
     salary: 7,
     officer: true,
     type: 'CM',
-    color: '#930808'
+    color: '#9a001c'
   },
   {
     id: 9,
@@ -133,7 +133,7 @@ exports.positions = [
     salary: 8,
     officer: true,
     type: 'CM',
-    color: '#8039c2'
+    color: '#534980'
   },
   {
     id: 10,
@@ -147,7 +147,7 @@ exports.positions = [
     salary: 9,
     officer: true,
     type: 'CM',
-    color: '#4a8100'
+    color: '#1c2f19'
   },
   {
     id: 11,
@@ -161,7 +161,7 @@ exports.positions = [
     salary: 10,
     officer: true,
     type: 'CM',
-    color: '#d7b400'
+    color: '#fee407'
   },
   {
     id: 12,
@@ -175,7 +175,7 @@ exports.positions = [
     salary: 11,
     officer: true,
     type: 'CM',
-    color: '#506975'
+    color: '#000000'
   },
   {
     id: 13,
@@ -189,7 +189,7 @@ exports.positions = [
     salary: 12,
     officer: true,
     type: 'CM',
-    color: '#506975'
+    color: '#000000'
   },
   {
     id: 14,
@@ -203,7 +203,7 @@ exports.positions = [
     salary: 1,
     officer: false,
     type: 'CE',
-    color: '#8e6151'
+    color: '#816434'
   },
   {
     id: 15,
@@ -217,7 +217,7 @@ exports.positions = [
     salary: 1,
     officer: false,
     type: 'CE',
-    color: '#8e6151'
+    color: '#816434'
   },
   {
     id: 16,
@@ -231,7 +231,7 @@ exports.positions = [
     salary: 2,
     officer: false,
     type: 'CE',
-    color: '#fae6ab'
+    color: '#ddd59d'
   },
   {
     id: 17,
@@ -245,7 +245,7 @@ exports.positions = [
     salary: 2,
     officer: false,
     type: 'CE',
-    color: '#fae6ab'
+    color: '#ddd59d'
   },
   {
     id: 18,
@@ -259,7 +259,7 @@ exports.positions = [
     salary: 3,
     officer: false,
     type: 'CE',
-    color: '#9e9e9e'
+    color: '#bebebe'
   },
   {
     id: 19,
@@ -273,7 +273,7 @@ exports.positions = [
     salary: 3,
     officer: false,
     type: 'CE',
-    color: '#9e9e9e'
+    color: '#bebebe'
   },
   {
     id: 20,
@@ -287,7 +287,7 @@ exports.positions = [
     salary: 4,
     officer: false,
     type: 'CE',
-    color: '#3f51b5'
+    color: '#44698b'
   },
   {
     id: 21,
@@ -301,7 +301,7 @@ exports.positions = [
     salary: 4,
     officer: false,
     type: 'CE',
-    color: '#3f51b5'
+    color: '#44698b'
   },
   {
     id: 22,
@@ -315,7 +315,7 @@ exports.positions = [
     salary: 5,
     officer: false,
     type: 'CE',
-    color: '#43a2d3'
+    color: '#17b5dd'
   },
   {
     id: 23,
@@ -329,7 +329,7 @@ exports.positions = [
     salary: 5,
     officer: false,
     type: 'CE',
-    color: '#43a2d3'
+    color: '#17b5dd'
   },
   {
     id: 24,
@@ -343,7 +343,7 @@ exports.positions = [
     salary: 6,
     officer: true,
     type: 'CE',
-    color: '#ff9800'
+    color: '#dd4e06'
   },
   {
     id: 25,
@@ -357,7 +357,7 @@ exports.positions = [
     salary: 6,
     officer: true,
     type: 'CE',
-    color: '#ff9800'
+    color: '#dd4e06'
   },
   {
     id: 26,
@@ -371,7 +371,7 @@ exports.positions = [
     salary: 7,
     officer: true,
     type: 'CE',
-    color: '#930808'
+    color: '#9a001c'
   },
   {
     id: 27,
@@ -385,7 +385,7 @@ exports.positions = [
     salary: 7,
     officer: true,
     type: 'CE',
-    color: '#930808'
+    color: '#9a001c'
   },
   {
     id: 28,
@@ -399,7 +399,7 @@ exports.positions = [
     salary: 8,
     officer: true,
     type: 'CE',
-    color: '#8039c2'
+    color: '#534980'
   },
   {
     id: 29,
@@ -413,7 +413,7 @@ exports.positions = [
     salary: 8,
     officer: true,
     type: 'CE',
-    color: '#8039c2'
+    color: '#534980'
   },
   {
     id: 30,
@@ -427,13 +427,13 @@ exports.positions = [
     salary: 9,
     officer: true,
     type: 'CE',
-    color: '#4a8100'
+    color: '#1c2f19'
   },
   {
     id: 31,
     order: 18,
     name: 'Orientador',
-    alias: 'ORI',
+    alias: 'ORN',
     prev_position_id: 30,
     next_position_id: 32,
     equivalent_to_id: 10,
@@ -441,7 +441,7 @@ exports.positions = [
     salary: 9,
     officer: true,
     type: 'CE',
-    color: '#4a8100'
+    color: '#1c2f19'
   },
   {
     id: 32,
@@ -455,7 +455,7 @@ exports.positions = [
     salary: 10,
     officer: true,
     type: 'CE',
-    color: '#d7b400'
+    color: '#fee407'
   },
   {
     id: 33,
@@ -469,7 +469,7 @@ exports.positions = [
     salary: 10,
     officer: true,
     type: 'CE',
-    color: '#d7b400'
+    color: '#fee407'
   },
   {
     id: 34,
@@ -483,13 +483,13 @@ exports.positions = [
     salary: 11,
     officer: true,
     type: 'CE',
-    color: '#506975'
+    color: '#000000'
   },
   {
     id: 35,
     order: 22,
     name: 'Acionista Majoritário',
-    alias: 'AMJ',
+    alias: 'ACM',
     prev_position_id: 34,
     next_position_id: 36,
     equivalent_to_id: 12,
@@ -497,7 +497,7 @@ exports.positions = [
     salary: 11,
     officer: true,
     type: 'CE',
-    color: '#506975'
+    color: '#000000'
   },
   {
     id: 36,
@@ -511,7 +511,7 @@ exports.positions = [
     salary: 12,
     officer: true,
     type: 'CE',
-    color: '#506975'
+    color: '#000000'
   },
   {
     id: 1,
